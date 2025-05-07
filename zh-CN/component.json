@@ -24,7 +24,7 @@
         "text": "色彩"
       },
       {
-        "link": "/container",
+        "link": "/容器",
         "text": "布局容器"
       },
       {
@@ -46,168 +46,168 @@
       },
       {
         "link": "/滚动条",
-        "text": "Scrollbar"
+        "text": "滚动条"
       },
       {
-        "link": "/space",
-        "text": "Space"
+        "link": "/间距",
+        "text": "间距"
       },
       {
-        "link": "/typography",
-        "text": "Typography"
+        "link": "/排版",
+        "text": "排版"
       }
     ]
   },
   "configuration": {
-    "text": "Configuration",
+    "text": "全局配置",
     "children": [
       {
-        "link": "/config-provider",
-        "text": "Config Provider"
+        "link": "/配置组件",
+        "text": "配置组件"
       }
     ]
   },
   "form": {
-    "text": "Form",
+    "text": "表单",
     "children": [
       {
-        "link": "/autocomplete",
-        "text": "Autocomplete"
+        "link": "/自动补全",
+        "text": "自动补全"
       },
       {
-        "link": "/cascader",
-        "text": "Cascader"
+        "link": "/级联选择器",
+        "text": "级联选择器"
       },
       {
-        "link": "/checkbox",
-        "text": "Checkbox"
+        "link": "/复选框",
+        "text": "复选框"
       },
       {
-        "link": "/color-picker",
-        "text": "Color Picker"
+        "link": "/颜色选择器",
+        "text": "颜色选择器"
       },
       {
-        "link": "/date-picker",
-        "text": "Date Picker"
+        "link": "/日期选择器",
+        "text": "日期控件"
       },
       {
-        "link": "/datetime-picker",
-        "text": "DateTime Picker"
+        "link": "/日期选择器",
+        "text": "日期控件"
       },
       {
-        "link": "/form",
-        "text": "Form"
+        "link": "/表单",
+        "text": "表单"
       },
       {
-        "link": "/input",
-        "text": "Input"
+        "link": "/输入框",
+        "text": "输入框"
       },
       {
-        "link": "/input-number",
-        "text": "Input Number"
+        "link": "/数字输入框",
+        "text": "数字输入框"
       },
       {
-        "link": "/input-tag",
-        "text": "Input Tag",
+        "link": "标签输入框",
+        "text": "标签输入框",
         "promotion": "2.9.0"
       },
       {
-        "link": "/mention",
-        "text": "Mention",
+        "link": "/提及",
+        "text": "提及",
         "promotion": "2.8.0"
       },
       {
-        "link": "/radio",
-        "text": "Radio"
+        "link": "/单选框",
+        "text": "单选框"
       },
       {
-        "link": "/rate",
-        "text": "Rate"
+        "link": "/评分",
+        "text": "评分"
       },
       {
-        "link": "/select",
-        "text": "Select"
+        "link": "/选择器",
+        "text": "选择器"
       },
       {
-        "link": "/select-v2",
-        "text": "Virtualized Select"
+        "link": "/选择器-v2",
+        "text": "虚拟化选择器"
       },
       {
-        "link": "/slider",
-        "text": "Slider"
+        "link": "/滑块",
+        "text": "滑块"
       },
       {
-        "link": "/switch",
-        "text": "Switch"
+        "link": "/开关",
+        "text": "开关"
       },
       {
-        "link": "/time-picker",
-        "text": "Time Picker"
+        "link": "/时间选择器",
+        "text": "时间选择器"
       },
       {
-        "link": "/time-select",
-        "text": "Time Select"
+        "link": "/时间选择",
+        "text": "时间选择"
       },
       {
-        "link": "/transfer",
-        "text": "Transfer"
+        "link": "/转移",
+        "text": "转移"
       },
       {
-        "link": "/tree-select",
-        "text": "TreeSelect",
+        "link": "树形选择器",
+        "text": "树形选择器",
         "promotion": "2.1.8"
       },
       {
-        "link": "/upload",
-        "text": "Upload"
+        "link": "/上传",
+        "text": "上传"
       }
     ]
   },
   "data": {
-    "text": "Data",
+    "text": "数据",
     "children": [
       {
-        "link": "/avatar",
-        "text": "Avatar"
+        "link": "/头像",
+        "text": "头像"
       },
       {
-        "link": "/badge",
-        "text": "Badge"
+        "link": "/徽章",
+        "text": "徽章"
       },
       {
-        "link": "/calendar",
-        "text": "Calendar"
+        "link": "/日历",
+        "text": "日历"
       },
       {
-        "link": "/card",
-        "text": "Card"
+        "link": "/卡片",
+        "text": "卡片"
       },
       {
-        "link": "/carousel",
-        "text": "Carousel"
+        "link": "/走马灯",
+        "text": "走马灯"
       },
       {
-        "link": "/collapse",
-        "text": "Collapse"
+        "link": "/折叠面板",
+        "text": "折叠面板"
       },
       {
-        "link": "/descriptions",
-        "text": "Descriptions"
+        "link": "/描述列表",
+        "text": "描述列表"
       },
       {
-        "link": "/empty",
-        "text": "Empty"
+        "link": "/空态",
+        "text": "空态"
       },
       {
-        "link": "/image",
-        "text": "Image"
+        "link": "/图片",
+        "text": "图片"
       },
       {
-        "link": "/infinite-scroll",
-        "text": "Infinite Scroll"
+        "link": "/无限滚动",
+        "text": "无限滚动"
       },
       {
-        "link": "/pagination",
+        "link": "/页码器",
         "text": "Pagination"
       },
       {
