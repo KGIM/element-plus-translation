@@ -1,45 +1,45 @@
 {
   "algolia": {
-    "placeholder": "Search docs",
+    "placeholder": "搜索文档",
     "translations": {
       "button": {
-        "buttonText": "Search",
-        "buttonAriaLabel": "Search"
+        "buttonText": "搜索",
+        "buttonAriaLabel": "搜索"
       },
       "modal": {
         "searchBox": {
-          "resetButtonTitle": "Clear the query",
-          "resetButtonAriaLabel": "Clear the query",
-          "cancelButtonText": "Cancel",
-          "cancelButtonAriaLabel": "Cancel"
+          "resetButtonTitle": "清空查询",
+          "resetButtonAriaLabel": "清空查询",
+          "cancelButtonText": "取消",
+          "cancelButtonAriaLabel": "取消"
         },
         "startScreen": {
-          "recentSearchesTitle": "Recent",
-          "noRecentSearchesText": "No recent searches",
-          "saveRecentSearchButtonTitle": "Save this search",
-          "removeRecentSearchButtonTitle": "Remove this search from history",
-          "favoriteSearchesTitle": "Favorite",
-          "removeFavoriteSearchButtonTitle": "Remove this search from favorites"
+          "recentSearchesTitle": "最近",
+          "noRecentSearchesText": "最近没有搜索",
+          "saveRecentSearchButtonTitle": "保存此搜索",
+          "removeRecentSearchButtonTitle": "从历史记录中删除此搜索",
+          "favoriteSearchesTitle": "喜欢的",
+          "removeFavoriteSearchButtonTitle": "从历史记录中删除此搜索"
         },
         "errorScreen": {
-          "titleText": "Unable to fetch results",
-          "helpText": "You might want to check your network connection."
+          "titleText": "无法获取结果",
+          "helpText": "您可能需要检查您的网络连接。"
         },
         "footer": {
-          "selectText": "to select",
-          "selectKeyAriaLabel": "Enter key",
-          "navigateText": "to navigate",
-          "navigateUpKeyAriaLabel": "Arrow up",
-          "navigateDownKeyAriaLabel": "Arrow down",
-          "closeText": "to close",
-          "closeKeyAriaLabel": "Escape key",
-          "searchByText": "Search by"
+          "selectText": "选择",
+          "selectKeyAriaLabel": "请输入密钥",
+          "navigateText": "导航",
+          "navigateUpKeyAriaLabel": "向上箭头",
+          "navigateDownKeyAriaLabel": "向下箭头",
+          "closeText": "关闭",
+          "closeKeyAriaLabel": "转义键",
+          "searchByText": "搜索方式"
         },
         "noResultsScreen": {
-          "noResultsText": "No results for",
-          "suggestedQueryText": "Try searching for",
-          "reportMissingResultsText": "Believe this query should return results?",
-          "reportMissingResultsLinkText": "Let us know."
+          "noResultsText": "没有关于。。的结果",
+          "suggestedQueryText": "尝试搜索",
+          "reportMissingResultsText": "相信此查询应该返回结果吗？",
+          "reportMissingResultsLinkText": "让我们知道吧。"
         }
       }
     }
