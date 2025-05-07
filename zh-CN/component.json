@@ -1,51 +1,51 @@
 {
   "overview": {
-    "text": "Overview",
+    "text": "概况",
     "children": [
       {
-        "link": "/overview",
-        "text": "Overview"
+        "link": "/概况",
+        "text": "概况"
       }
     ]
   },
   "basic": {
-    "text": "Basic",
+    "text": "基本",
     "children": [
       {
-        "link": "/button",
-        "text": "Button"
+        "link": "/按钮",
+        "text": "按钮"
       },
       {
-        "link": "/border",
-        "text": "Border"
+        "link": "/边框",
+        "text": "边框"
       },
       {
-        "link": "/color",
-        "text": "Color"
+        "link": "/色彩",
+        "text": "色彩"
       },
       {
         "link": "/container",
-        "text": "Layout Container"
+        "text": "布局容器"
       },
       {
-        "link": "/icon",
-        "text": "Icon"
+        "link": "/图标",
+        "text": "图标"
       },
       {
-        "link": "/layout",
-        "text": "Layout"
+        "link": "/布局",
+        "text": "布局"
       },
       {
-        "link": "/link",
-        "text": "Link"
+        "link": "/链接",
+        "text": "链接"
       },
       {
-        "link": "/text",
-        "text": "Text",
+        "link": "/文本",
+        "text": "文本",
         "promotion": "2.3.0"
       },
       {
-        "link": "/scrollbar",
+        "link": "/滚动条",
         "text": "Scrollbar"
       },
       {
