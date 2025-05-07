@@ -1,7 +1,9 @@
 ---
 title: A Vue 3 UI Framework
-lang: en-US
 page: true
+lang: en-US
 ---
 
-<!-- Placeholder -->
+<ClientOnly>
+  <ParallaxHome />
+</ClientOnly>
