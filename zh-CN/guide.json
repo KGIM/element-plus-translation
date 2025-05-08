@@ -1,48 +1,48 @@
 {
   "intro": {
-    "text": "Basics",
+    "text": "基础用法",
     "children": [
       {
-        "text": "Design",
-        "link": "/guide/design"
+        "text": "设计思路",
+        "link": "/导航/设计"
       },
       {
-        "text": "Navigation",
-        "link": "/guide/nav"
+        "text": "导航",
+        "link": "/导航/导航栏"
       },
       {
-        "text": "Installation",
-        "link": "/guide/installation"
+        "text": "安装",
+        "link": "/导航/安装"
       },
       {
-        "text": "Quick Start",
-        "link": "/guide/quickstart"
+        "text": "快速开始",
+        "link": "/guide/快速开始"
       }
     ]
   },
   "advanced": {
-    "text": "Advanced",
+    "text": "进阶",
     "children": [
       {
-        "text": "i18n",
-        "link": "/guide/i18n"
+        "text": "国际化",
+        "link": "/guide/国际化"
       },
       {
-        "text": "Migration from ElementUI",
-        "link": "/guide/migration"
+        "text": "从 ElementUI 迁移",
+        "link": "/guide/迁移"
       },
       {
-        "text": "Theming",
-        "link": "/guide/theming"
+        "text": "主题",
+        "link": "/guide/主题"
       },
       {
-        "text": "Dark Mode",
-        "link": "/guide/dark-mode",
+        "text": "暗黑模式",
+        "link": "/guide/暗黑模式",
         "promotion": "2.2.0"
       },
       {
-        "text": "Custom Namespace",
-        "link": "/guide/namespace",
+        "text": "自定义命名空间",
+        "link": "/guide/自定义命名空间",
         "promotion": "2.2.0"
       },
       {
@@ -50,33 +50,33 @@
         "link": "/guide/ssr"
       },
       {
-        "text": "Built-in Transitions",
-        "link": "/guide/transitions"
+        "text": "内置过渡动画",
+        "link": "/guide/内置过渡动画"
       },
       {
-        "text": "Changelog",
-        "link": "/guide/changelog"
+        "text": "更新日志",
+        "link": "/guide/更新日志"
       }
     ]
   },
   "development": {
-    "text": "Development",
+    "text": "开发",
     "children": [
       {
-        "text": "Development Guide",
-        "link": "/guide/dev-guide"
+        "text": "开发指南",
+        "link": "/guide/开发指南"
       },
       {
-        "text": "Development FAQ",
+        "text": "开发常见问题",
         "link": "/guide/dev-faq"
       },
       {
-        "text": "Commit Examples",
+        "text": "提交示例",
         "link": "/guide/commit-examples"
       },
       {
-        "text": "Translation",
-        "link": "/guide/translation"
+        "text": "翻译",
+        "link": "/guide/翻译"
       }
     ]
   }
