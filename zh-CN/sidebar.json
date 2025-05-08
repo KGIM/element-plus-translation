@@ -1,0 +1,21 @@
+[
+  {
+    "text": "导航",
+    "link": "/导航/设计",
+    "activeMatch": "/导航/"
+  },
+  {
+    "text": "组件",
+    "link": "/component/概览",
+    "activeMatch": "/组件/"
+  },
+  {
+    "text": "资源",
+    "link": "/资源/索引",
+    "activeMatch": "/资源/"
+  },
+  {
+    "text": "Playground",
+    "link": "https://element-plus.run"
+  }
+]

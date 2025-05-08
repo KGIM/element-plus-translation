@@ -1,0 +1,83 @@
+{
+  "intro": {
+    "text": "基础用法",
+    "children": [
+      {
+        "text": "设计思路",
+        "link": "/导航/设计"
+      },
+      {
+        "text": "导航",
+        "link": "/导航/导航栏"
+      },
+      {
+        "text": "安装",
+        "link": "/导航/安装"
+      },
+      {
+        "text": "快速开始",
+        "link": "/guide/快速开始"
+      }
+    ]
+  },
+  "advanced": {
+    "text": "进阶",
+    "children": [
+      {
+        "text": "国际化",
+        "link": "/guide/国际化"
+      },
+      {
+        "text": "从 ElementUI 迁移",
+        "link": "/guide/迁移"
+      },
+      {
+        "text": "主题",
+        "link": "/guide/主题"
+      },
+      {
+        "text": "暗黑模式",
+        "link": "/guide/暗黑模式",
+        "promotion": "2.2.0"
+      },
+      {
+        "text": "自定义命名空间",
+        "link": "/guide/自定义命名空间",
+        "promotion": "2.2.0"
+      },
+      {
+        "text": "SSR",
+        "link": "/guide/ssr"
+      },
+      {
+        "text": "内置过渡动画",
+        "link": "/guide/内置过渡动画"
+      },
+      {
+        "text": "更新日志",
+        "link": "/guide/更新日志"
+      }
+    ]
+  },
+  "development": {
+    "text": "开发",
+    "children": [
+      {
+        "text": "开发指南",
+        "link": "/guide/开发指南"
+      },
+      {
+        "text": "开发常见问题",
+        "link": "/guide/dev-faq"
+      },
+      {
+        "text": "提交示例",
+        "link": "/guide/commit-examples"
+      },
+      {
+        "text": "翻译",
+        "link": "/guide/翻译"
+      }
+    ]
+  }
+}
