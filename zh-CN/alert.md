@@ -1,33 +1,33 @@
 ---
-title: Alert
+title: 提示
 lang: en-US
 ---
 
-# Alert
+# 提示
 
-Displays important alert messages.
+用于页面中展示重要的提示信息。
 
-## Basic Usage
+## 基础用法
 
-Alert components are non-overlay elements in the page that does not disappear automatically.
+Alert 组件不属于浮层元素，不会自动消失或关闭。
 
-:::demo Alert provides 4 types of themes defined by `type`, whose default value is `info`.
+:::demo Alert 组件提供四种类型，由 type 属性指定，默认值为 info。
 
-alert/basic
-
-:::
-
-## Theme
-
-Alert provide two different themes, `light` and `dark`.
-
-:::demo Set `effect` to change theme, default is `light`.
-
-alert/theme
+提示/基础用法
 
 :::
 
-## Customizable Close Button
+## 主题
+
+提示提供两个不同的主题，`light`和`dark`。
+
+:::demo 设置 `effect` 以更改主题，默认值是 `light` 。
+
+提示/主题
+
+:::
+
+## 自定义关闭按钮
 
 Customize the close button as texts or other symbols.
 
