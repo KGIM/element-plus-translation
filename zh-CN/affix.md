@@ -1,17 +1,17 @@
 ---
-title: Affix
+title: 固钉
 lang: en-US
 ---
 
-# Affix
+# 固钉
 
-Fix the element to a specific visible area.
+将页面元素固定在特定可视区域。
 
-## Basic Usage
+## 基础用法
 
-Affix is fixed at the top of the page by default.
+固钉默认固定在页面顶部。
 
-:::demo You can set `offset` attribute to change the offset top，the default value is 0.
+:::demo 通过设置 offset 属性来改变吸顶距离，默认值为 0。
 
 affix/basic
 
@@ -31,7 +31,7 @@ affix/target
 
 The affix component provides two fixed positions: `top` and `bottom`.
 
-:::demo You can set `position` attribute to change the fixed position, the default value is `top`.
+:::demo 您可以设置 `position` 属性来更改固定位置，默认值是 `top` 。
 
 affix/fixed
 
@@ -39,14 +39,14 @@ affix/fixed
 
 ## API
 
-### Attributes
+### 属性
 
-| Name     | Description                                        | Type                                                                             | Default |
-| -------- | -------------------------------------------------- | -------------------------------------------------------------------------------- | ------- |
-| offset   | offset distance                                    | ^[number]                    | 0       |
-| position | position of affix                                  | ^[enum]`'top' \\| 'bottom'` | top     |
-| target   | target container (CSS selector) | ^[string]                    | —       |
-| z-index  | `z-index` of affix                                 | ^[number]                    | 100     |
+| 名称       | 说明                                                 | 类型                                                                               | 默认值 |
+| -------- | -------------------------------------------------- | -------------------------------------------------------------------------------- | --- |
+| 偏移量      | 偏移距离                                               | ^[number]                    | 0   |
+| position | 固钉位置                                               | ^[enum]`'top' \\| 'bottom'` | top |
+| target   | target container (CSS selector) | ^[string]                    | —   |
+| z-index  | `z-index` of affix                                 | ^[number]                    | 100 |
 
 ### Events
 
