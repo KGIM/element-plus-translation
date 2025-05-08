@@ -41,29 +41,29 @@ affix/fixed
 
 ### 属性
 
-| 名称       | 说明                                                 | 类型                                                                               | 默认值 |
-| -------- | -------------------------------------------------- | -------------------------------------------------------------------------------- | --- |
-| 偏移量      | 偏移距离                                               | ^[number]                    | 0   |
-| position | 固钉位置                                               | ^[enum]`'top' \\| 'bottom'` | top |
-| target   | target container (CSS selector) | ^[string]                    | —   |
-| z-index  | `z-index` of affix                                 | ^[number]                    | 100 |
+| 名称       | 说明                                | 类型                                                                          | 默认值 |
+| -------- | --------------------------------- | --------------------------------------------------------------------------- | --- |
+| 偏移量      | 偏移距离                              | ^[number]               | 0   |
+| position | 固钉位置                              | ^[enum]\`top' \\| '底部' | top |
+| target   | 目标容器 (CSS 选择器) | ^[string]               | —   |
+| z-index  | `z-index` of affix                | ^[number]               | 100 |
 
-### Events
+### 事件
 
-| Name   | Description                       | Type                                                                                                                    |
-| ------ | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| change | triggers when fixed state changed | ^[Function]`(fixed: boolean) => void`                               |
-| scroll | triggers when scrolling           | ^[Function]`(value: { scrollTop: number, fixed: boolean }) => void` |
+| 名称     | 描述           | 类型                                                                                                                      |
+| ------ | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| change | 固钉状态改变时触发的事件 | ^[Function]`(fixed: boolean) => void`                               |
+| scroll | 滚动时触发的事件     | ^[Function]`(value: { scrollTop: number, fixed: boolean }) => void` |
 
-### Slots
+### 插槽
 
-| Name    | Description               |
-| ------- | ------------------------- |
-| default | customize default content |
+| 名称  | 描述      |
+| --- | ------- |
+| 默认值 | 自定义默认内容 |
 
-### Exposes
+### 暴露
 
-| Name       | Description                 | Type                                                                        |
-| ---------- | --------------------------- | --------------------------------------------------------------------------- |
-| update     | update affix state manually | ^[Function]`() => void` |
-| updateRoot | update rootRect info        | ^[Function]`() => void` |
+| 名称         | 描述           | 类型                                                                          |
+| ---------- | ------------ | --------------------------------------------------------------------------- |
+| 更新         | 手动更新固钉状态     | ^[Function]`() => void` |
+| updateRoot | 手动更新根元素的模型信息 | ^[Function]`() => void` |
